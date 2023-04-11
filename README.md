@@ -8,7 +8,7 @@ Having a background in academia helps me to understand the data and apply both a
 
 - 🔭 I’m currently working on internal company projects.  
  
-- I attended an intensive course on Data Science in [Constructor Learning](https://learning.constructor.org/), where I stayed on as a TA, then Consultant, and now as a Program Manager. I work with the following technologies (which we also pass on to our students):   
+- I attended an intensive course on Data Science at [Constructor Learning](https://learning.constructor.org/), where I stayed on as a TA, then Consultant, and now as a Program Manager. I work with the following technologies (which we also pass on to our students):   
 
   - Python, Web Scraping, APIs   
   - Visualization (incl. Interactive) with Python, Plotly, Bokeh, Streamlit 
